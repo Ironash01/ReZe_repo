@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Krosis\\source\\repos\\ReZe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReZe.cs",
+              "DocumentMoniker": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs",
+              "RelativeDocumentMoniker": "ReZe.cs",
+              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs*",
+              "RelativeToolTip": "ReZe.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T00:59:15.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Krosis\\source\\repos\\ReZe\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "ReZe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs",
+              "RelativeDocumentMoniker": "ReZe.cs",
+              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs [Design]*",
+              "RelativeToolTip": "ReZe.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-14T14:02:16.639Z",
               "EditorCaption": " [Design]"

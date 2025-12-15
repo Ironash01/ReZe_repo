@@ -1,0 +1,17 @@
+C:\Users\Krosis\source\repos\ReZe\bin\Debug\net8.0-windows\ReZe.exe
+C:\Users\Krosis\source\repos\ReZe\bin\Debug\net8.0-windows\ReZe.deps.json
+C:\Users\Krosis\source\repos\ReZe\bin\Debug\net8.0-windows\ReZe.runtimeconfig.json
+C:\Users\Krosis\source\repos\ReZe\bin\Debug\net8.0-windows\ReZe.dll
+C:\Users\Krosis\source\repos\ReZe\bin\Debug\net8.0-windows\ReZe.pdb
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.ReZe.resources
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.csproj.GenerateResource.cache
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.AssemblyInfoInputs.cache
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.AssemblyInfo.cs
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.csproj.CoreCompileInputs.cache
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.sourcelink.json
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.dll
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\refint\ReZe.dll
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.pdb
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ReZe.genruntimeconfig.cache
+C:\Users\Krosis\source\repos\ReZe\obj\Debug\net8.0-windows\ref\ReZe.dll

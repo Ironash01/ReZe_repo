@@ -8,4 +8,18 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="component_testing\**" />
+    <EmbeddedResource Remove="component_testing\**" />
+    <None Remove="component_testing\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="game_settings\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Management" Version="10.0.1" />
+  </ItemGroup>
+
 </Project>

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Krosis\\source\\repos\\ReZe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|C:\\Users\\Krosis\\source\\repos\\ReZe\\reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:reze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\reze.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:reze.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|c:\\users\\krosis\\source\\repos\\reze\\component_testing\\wmi\\wmi_tets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589D0544-EF99-4CFD-8E33-EF2F70AF29DF}|ReZe.csproj|solutionrelative:component_testing\\wmi\\wmi_tets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "wmi_tets.cs",
+              "DocumentMoniker": "C:\\Users\\Krosis\\source\\repos\\ReZe\\component_testing\\wmi\\wmi_tets.cs",
+              "RelativeDocumentMoniker": "component_testing\\wmi\\wmi_tets.cs",
+              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\component_testing\\wmi\\wmi_tets.cs",
+              "RelativeToolTip": "component_testing\\wmi\\wmi_tets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T14:28:10.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReZe.csproj",
+              "DocumentMoniker": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.csproj",
+              "RelativeDocumentMoniker": "ReZe.csproj",
+              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.csproj",
+              "RelativeToolTip": "ReZe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T14:09:31.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ReZe.cs",
               "DocumentMoniker": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs",
               "RelativeDocumentMoniker": "ReZe.cs",
-              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs*",
-              "RelativeToolTip": "ReZe.cs*",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs",
+              "RelativeToolTip": "ReZe.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAswDkBAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T00:59:15.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReZe.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs",
               "RelativeDocumentMoniker": "ReZe.cs",
-              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs [Design]*",
-              "RelativeToolTip": "ReZe.cs [Design]*",
+              "ToolTip": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.cs [Design]",
+              "RelativeToolTip": "ReZe.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-14T14:02:16.639Z",
               "EditorCaption": " [Design]"

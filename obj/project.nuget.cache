@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ljnz1xYdlRE=",
+  "dgSpecHash": "PkYUG9ana0s=",
   "success": true,
   "projectFilePath": "C:\\Users\\Krosis\\source\\repos\\ReZe\\ReZe.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Krosis\\.nuget\\packages\\system.codedom\\10.0.1\\system.codedom.10.0.1.nupkg.sha512",
+    "C:\\Users\\Krosis\\.nuget\\packages\\system.management\\10.0.1\\system.management.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

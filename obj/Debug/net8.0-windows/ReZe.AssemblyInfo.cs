@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReZe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82bace42a1c19a8474e3f5181663bea9f15368d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2be9d83175b1c4457ff66898a9f5b5892fb0a9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReZe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReZe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -29,56 +29,6 @@ namespace ReZe
             placeholder_ui();
         }
 
-        // EnumDisplaySettings
-
-        [DllImport("user32.dll")]
-        static extern bool EnumDisplaySettings(
-        string deviceName,
-        int modeNum,
-        ref DEVMODE devMode
-);
-
-        const int ENUM_CURRENT_SETTINGS = -1;
-        const int ENUM_REGISTRY_SETTINGS = -2;
-
-        // Define DEV MODE
-
-        [StructLayout(LayoutKind.Sequential, CharSet = CharSet.Ansi)]
-        struct DEVMODE
-        {
-            private const int CCHDEVICENAME = 32;
-            private const int CCHFORMNAME = 32;
-
-            [MarshalAs(UnmanagedType.ByValTStr, SizeConst = CCHDEVICENAME)]
-            public string dmDeviceName;
-
-            public short dmSpecVersion;
-            public short dmDriverVersion;
-            public short dmSize;
-            public short dmDriverExtra;
-            public int dmFields;
-
-            public int dmPositionX;
-            public int dmPositionY;
-            public int dmDisplayOrientation;
-            public int dmDisplayFixedOutput;
-
-            public short dmColor;
-            public short dmDuplex;
-            public short dmYResolution;
-            public short dmTTOption;
-            public short dmCollate;
-
-            [MarshalAs(UnmanagedType.ByValTStr, SizeConst = CCHFORMNAME)]
-            public string dmFormName;
-
-            public short dmLogPixels;
-            public int dmBitsPerPel;
-            public int dmPelsWidth;
-            public int dmPelsHeight;
-            public int dmDisplayFlags;
-            public int dmDisplayFrequency;
-        }
 
 
 
@@ -120,49 +70,6 @@ namespace ReZe
             }
 
         }
-
-        private void applist_read()
-        {
-            applist_init();
-            foreach (string line in applist)
-            {
-                list_app.Items.Add(line);
-            }
-        }
-
-        private void applist_init()  // method for config check and reading.
-        {
-
-            if (!File.Exists(config_applist))
-            {
-                File.Create(config_applist); // create empty congfig
-                MessageBox.Show("Config file created. Add some Programs first.");
-            }
-            else
-            {
-                applist = File.ReadAllLines(config_applist);
-                foreach (string line in applist)
-                {
-                    string name = Path.GetFileName(line); //    filters only the exe name.
-                    list_app.Items.Add(name);
-                }
-            }
-
-        }
-
-        private void config_init()
-        {
-            if (!File.Exists(config_settings))
-            {
-                File.Create(config_settings);
-                MessageBox.Show("Config Settings created");
-            }
-        }
-
-        /*
-         I wanted to seperate the applist and config on an ini text file for easy reading the config
-        Format: exe name, refresh rate, fps cap, rendering res , DLSS mode (if supported)
-         */
 
         private void plugged_config_init() // stores the settings
         {
